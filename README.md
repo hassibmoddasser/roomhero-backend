@@ -70,4 +70,4 @@ yarn test
 
 ## License
 
-[MIT License](README.md)
+[MIT License](LICENSE)
