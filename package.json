@@ -20,6 +20,7 @@
     "valid-url": "^1.0.9"
   },
   "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
     "eslint": "^7.32.0 || ^8.2.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.2",
