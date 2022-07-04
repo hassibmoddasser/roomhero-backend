@@ -24,7 +24,7 @@ The REST APIs of the RoomHero platform
 Clone the repo and make it yours
 
 ```bash
-gh repo clone hassibmoddassesr/roomhero-backend
+gh repo clone hassibmoddasser/roomhero-backend
 ```
 
 Install the dependencies
