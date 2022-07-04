@@ -67,3 +67,7 @@ yarn dev
 # running tests
 yarn test
 ```
+
+## License
+
+[MIT License](README.md)
